@@ -28,7 +28,6 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Darkmode(),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Explorer(),
-    Component.RecentNotes({ showTags: false }),
   ],
   right: [
     Component.Graph({

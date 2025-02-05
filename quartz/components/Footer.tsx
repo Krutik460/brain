@@ -11,6 +11,13 @@ export default ((opts?: Options) => {
   const Footer: QuartzComponent = ({ displayClass, cfg }: QuartzComponentProps) => {
     const year = new Date().getFullYear()
     const links = opts?.links ?? []
+
+    // CHANGED - Removed the version from the footer
+    // <p>
+    //   {i18n(cfg.locale).components.footer.createdWith}{" "}
+    //   <a href="https://quartz.jzhao.xyz/">Quartz v{version}</a> © {year}
+    // </p>
+
     return (
       <footer class={`${displayClass ?? ""}`}>
         <p>

@@ -3,7 +3,7 @@ description: An easy and proven way to build good habits and break bad ones.
 tags:
   - book
   - Productivity
-draft: true
+draft: false
 ---
 
 - **Author:** [[James Clear]]

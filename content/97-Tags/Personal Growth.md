@@ -9,7 +9,6 @@ This page is a curated repository of personal growth resources, organized into k
 ## Personal Development
 
 - #Productivity - Discover the tools, techniques, and strategies to boost your productivity.
-- #Habits - Learn how to build and maintain positive habits that contribute to personal growth.
 - #Creativity - Explore ways to unlock your creativity and cultivate a creative mindset.
 
 ## Well-being

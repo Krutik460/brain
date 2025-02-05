@@ -2,6 +2,7 @@
 title: "Modern Wisdom - Adam Grant"
 description: "Destroy Your Mental Limits & Unlock Your Best Self"
 tag:
+  - podcast
   - Creativity
   - CareerGrowth
 draft: false

@@ -1,5 +1,4 @@
 ---
-title: "Adam Grant"
 tags:
   - people
 draft: false

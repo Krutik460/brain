@@ -23,7 +23,16 @@ This is a dynamic space, and I welcome feedback, discussions, and collaboration.
 
 ## Start Here
 
+### Areas of Interest
+
 - [[Technology]]
 - [[Fitness & Health]]
 - [[Finance]]
 - [[Personal Growth]]
+
+### Sources
+
+- #book 
+- #podcast
+- #research-paper
+- #video

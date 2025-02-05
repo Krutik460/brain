@@ -12,11 +12,15 @@ draft: false
 
 ## Show Notes
 
-#### Meaning of Achieving One’s True Potential
+### Meaning of Achieving One’s True Potential
 
-#### Management of Uncertainty & Failure
+Writing...
 
-#### Information Abundance and the Skill of Synthesis
+### Management of Uncertainty & Failure
+
+Writing...
+
+### Information Abundance and the Skill of Synthesis
 
 The speaker discusses the problem of over consumption of information in the modern age. In the past, humans were information scavengers, but now they are information foragers in a world with a permanent 24-hour buffet, where they can never leave. There was a limited period of time where optimal information was available, but now there is an overwhelming amount.
 

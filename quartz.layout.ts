@@ -8,8 +8,7 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [],
   footer: Component.Footer({
     links: {
-      GitHub: "https://github.com/jackyzha0/quartz",
-      "Discord Community": "https://discord.gg/cRFFHYye7t",
+      GitHub: "https://github.com/krutik460",
     },
   }),
 }
@@ -20,7 +19,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Breadcrumbs(),
     Component.ArticleTitle(),
     Component.ContentMeta(),
-    Component.TagList(),
+    // Component.TagList(), // uncomment to display tags
   ],
   left: [
     Component.PageTitle(),
@@ -28,9 +27,27 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Search(),
     Component.Darkmode(),
     Component.DesktopOnly(Component.Explorer()),
+    Component.RecentNotes({ showTags: false }),
   ],
   right: [
-    Component.Graph(),
+    Component.Graph({
+      localGraph: {
+        fontSize: 0.8,
+        opacityScale: 2,
+        repelForce: 1,
+        centerForce: 0.45,
+        linkDistance: 60,
+        removeTags: ["people"],
+      },
+      globalGraph: {
+        fontSize: 1.2,
+        opacityScale: 2,
+        repelForce: 1.9,
+        centerForce: 0.45,
+        linkDistance: 70,
+        removeTags: ["people"],
+      },
+    }),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
   ],

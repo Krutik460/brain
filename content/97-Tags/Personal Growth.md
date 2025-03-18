@@ -10,6 +10,7 @@ This page is a curated repository of personal growth resources, organized into k
 
 - #Productivity - Discover the tools, techniques, and strategies to boost your productivity.
 - #Creativity - Explore ways to unlock your creativity and cultivate a creative mindset.
+- #Fashion - Discover the importance of fashion and how it can improve your overall health and appearance.
 
 ## Well-being
 

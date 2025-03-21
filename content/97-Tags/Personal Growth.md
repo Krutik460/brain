@@ -1,7 +1,6 @@
 ---
 draft: false
 ---
-
 > **Note:** Click on a tag below to explore resources related to that topic.
 
 This page is a curated repository of personal growth resources, organized into key categories for quick reference.

@@ -5,8 +5,8 @@ tags:
   - Fashion
 draft: false
 ---
+- **Video:** [Wanhee's Youtube Video](https://www.youtube.com/watch?v=e2MgmGDLV9Q)
 
-https://www.youtube.com/watch?v=e2MgmGDLV9Q
 
 1. **Tone on Tone vs. Tone in Tone**
 

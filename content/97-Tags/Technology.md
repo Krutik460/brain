@@ -27,6 +27,7 @@ This page is a curated repository of technology resources, organized into key ca
 - #DevOps - Learn about the principles of DevOps and how to automate and streamline the software development process.
 - #CloudServices - Explore the different cloud service providers and their offerings for businesses and developers.
 - #Cybersecurity - Learn about the latest trends and best practices in cybersecurity to protect your data and systems.
+- #Seo - Learn about the latest trends and research about Search Engine Optimization in this ever evolving field. 
 
 ## Data Science
 

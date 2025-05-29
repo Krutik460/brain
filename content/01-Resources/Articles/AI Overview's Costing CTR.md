@@ -3,7 +3,7 @@ description: Ahrefs study shows Google AI Overviews cut top‑ranking pages’ c
 tags:
   - article
   - Seo
-draft:
+draft: false
 ---
 - **Article** - [Ahrefs Research](https://ahrefs.com/blog/ai-overviews-reduce-clicks/)
 

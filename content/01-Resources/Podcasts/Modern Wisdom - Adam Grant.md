@@ -1,11 +1,11 @@
 ---
-title: "Modern Wisdom - Adam Grant"
-description: "Destroy Your Mental Limits & Unlock Your Best Self"
-tag:
+title: Modern Wisdom - Adam Grant
+description: Destroy Your Mental Limits & Unlock Your Best Self
+tags:
   - podcast
   - Creativity
   - CareerGrowth
-draft: false
+draft: true
 ---
 
 - **Podcast:** [Youtube](https://youtu.be/DLfWv_Ey27s?list=TLGGAGPVe5O2Os0yMjAxMjAyNQ)

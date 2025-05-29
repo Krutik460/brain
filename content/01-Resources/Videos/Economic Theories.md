@@ -5,6 +5,9 @@ tags:
   - EconomicTheory
 draft: false
 ---
+- **Video:** [Wanhee's Youtube Video](https://www.youtube.com/watch?v=e2MgmGDLV9Q)
+
+
 **1. Classical Economics ([[Adam Smith]], [[David Ricardo]])**
 *   **Core Idea:** Views the economy as a self-regulating machine that functions best with minimal government intervention (Laissez-faire).
 *   **Key Figure:** Adam Smith ("The Wealth of Nations," 1776). Introduced the concept of the "Invisible Hand," where individuals pursuing their self-interest inadvertently benefit society as a whole (e.g., a baker seeking profit provides bread).

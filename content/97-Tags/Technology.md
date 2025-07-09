@@ -1,6 +1,7 @@
 ---
 draft: false
 ---
+
 > **Note:** Click on a tag below to explore resources related to that topic.
 
 This page is a curated repository of technology resources, organized into key categories for quick reference.
@@ -20,6 +21,7 @@ This page is a curated repository of technology resources, organized into key ca
 - #LargeLanguageModel - Dive into resources about the architecture, training, and different types of large language models.
 - #RAG - Learn about one of the earliest use cases of LLM and ways to optimize it.
 - #LLMAgents - Learn about the emerging role of agents powered by large language models and their practical applications.
+- #SuperIntelligence - Explore the concept of superintelligence and its implications for the future of AI.
 
 ## Software Development
 
@@ -29,7 +31,7 @@ This page is a curated repository of technology resources, organized into key ca
 - #DevOps - Learn about the principles of DevOps and how to automate and streamline the software development process.
 - #CloudServices - Explore the different cloud service providers and their offerings for businesses and developers.
 - #Cybersecurity - Learn about the latest trends and best practices in cybersecurity to protect your data and systems.
-- #Seo - Learn about the latest trends and research about Search Engine Optimization in this ever evolving field. 
+- #Seo - Learn about the latest trends and research about Search Engine Optimization in this ever evolving field.
 
 ## Data Science
 

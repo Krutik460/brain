@@ -5,11 +5,11 @@ tags:
   - podcast
   - Creativity
   - CareerGrowth
-draft: true
+draft: false
 ---
 
 - **Podcast:** [Youtube](https://youtu.be/DLfWv_Ey27s?list=TLGGAGPVe5O2Os0yMjAxMjAyNQ)
-- **Host:** [[Adam Grant]]
+- **Guest:** [[Adam Grant]]
 
 ## Show Notes
 

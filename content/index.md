@@ -27,8 +27,9 @@ This is a dynamic space, and I welcome feedback, discussions, and collaboration.
 
 - [[Technology]]
 - [[Fitness & Health]]
-- [[Finance]]
+- [[Economics]]
 - [[Personal Growth]]
+- [[Other Fields]]
 
 ### Sources
 
@@ -36,3 +37,5 @@ This is a dynamic space, and I welcome feedback, discussions, and collaboration.
 - #podcast
 - #research-paper
 - #video
+- #newsletter 
+- #article 

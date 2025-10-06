@@ -29,13 +29,15 @@ This is a dynamic space, and I welcome feedback, discussions, and collaboration.
 - [[Fitness & Health]]
 - [[Economics]]
 - [[Personal Growth]]
+- [[Finance]]
+- [[Institutes]]
 - [[Other Fields]]
 
 ### Sources
 
-- #book 
+- #book
 - #podcast
 - #research-paper
 - #video
-- #newsletter 
-- #article 
+- #newsletter
+- #article

@@ -2,10 +2,10 @@
 title: Blitzscaling
 description: Reid Hoffman's framework for scaling startups at lightning speed by prioritizing speed over efficiency
 tags:
-  - business
-  - scaling
-  - startups
-  - strategy
+  - Scaling
+  - Startups
+  - BusinessStrategy
+  - GrowthStrategy
 draft: false
 ---
 

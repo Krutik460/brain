@@ -2,11 +2,11 @@
 title: "HubSpot Multi-Product Case Study"
 description: Analysis of how HubSpot expanded from single product to multi-product horizontal SaaS
 tags:
-  - business
-  - scaling
-  - saas
-  - case-study
-  - hubspot
+  - CaseStudy
+  - Scaling
+  - SaaS
+  - GrowthStrategy
+  - SMB
 draft: false
 ---
 

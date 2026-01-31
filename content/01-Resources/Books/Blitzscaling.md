@@ -2,6 +2,7 @@
 title: Blitzscaling
 description: Reid Hoffman's framework for scaling startups at lightning speed by prioritizing speed over efficiency
 tags:
+  - book
   - Scaling
   - Startups
   - BusinessStrategy
@@ -11,9 +12,9 @@ draft: false
 
 # Blitzscaling
 
-**Authors:** Reid Hoffman & Chris Yeh  
-**Published:** 2018  
-**Category:** Business Strategy / Scaling
+- **Authors:** [[Reid Hoffman]] & Chris Yeh  
+- **Published:** 2018  
+- **Category:** Business Strategy / Scaling
 
 ## Core Concept
 

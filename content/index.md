@@ -26,10 +26,11 @@ This is a dynamic space, and I welcome feedback, discussions, and collaboration.
 ### Areas of Interest
 
 - [[Technology]]
-- [[Fitness & Health]]
+- [[Business]]
 - [[Economics]]
-- [[Personal Growth]]
 - [[Finance]]
+- [[Personal Growth]]
+- [[Fitness & Health]]
 - [[Institutes]]
 - [[Other Fields]]
 
